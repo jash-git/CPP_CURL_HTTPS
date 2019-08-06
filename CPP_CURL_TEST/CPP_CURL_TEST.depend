@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1565074016 source:c:\users\jashliao\desktop\cpp_curl_https\cpp_curl_test\main.cpp
+	<iostream>
+	<cstdio>
+	"include\curl\curl.h"
+	"include\curl\easy.h"
+
+1563459816 c:\users\jashliao\desktop\cpp_curl_https\cpp_curl_test\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"typecheck-gcc.h"
+
+1563500198 c:\users\jashliao\desktop\cpp_curl_https\cpp_curl_test\include\curl\curlver.h
+
+1553474568 c:\users\jashliao\desktop\cpp_curl_https\cpp_curl_test\include\curl\system.h
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1553474568 c:\users\jashliao\desktop\cpp_curl_https\cpp_curl_test\include\curl\easy.h
+
+1553474568 c:\users\jashliao\desktop\cpp_curl_https\cpp_curl_test\include\curl\multi.h
+	"curl.h"
+
+1560387154 c:\users\jashliao\desktop\cpp_curl_https\cpp_curl_test\include\curl\urlapi.h
+	"curl.h"
+
+1563243872 c:\users\jashliao\desktop\cpp_curl_https\cpp_curl_test\include\curl\typecheck-gcc.h
+
